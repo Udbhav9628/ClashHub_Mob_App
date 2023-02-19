@@ -1,0 +1,6 @@
+[submodule "ClashHub-RN-Client"]
+	path = ClashHub-RN-Client
+	url = https://github.com/Udbhav9628/ClashHub-RN-Client.git
+[submodule "Server_ClashHUb_Pub-"]
+	path = Server_ClashHUb_Pub-
+	url = https://github.com/Udbhav9628/Server_ClashHUb_Pub-.git
