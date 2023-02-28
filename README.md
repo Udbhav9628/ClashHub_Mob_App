@@ -8,6 +8,20 @@
 ClashHub is an app, Where Gamers can Play, Host, Watch E-Sports matches of games like BGMI, Call of Duty Mobile, FreeFire Max and Earn Money.
 
 
+## User Flow
+### Gamer
+![User Flow Design Flowchart Whiteboard in Blue Yellow Spaced Color Blocks Style (1)](https://user-images.githubusercontent.com/91516454/221770310-3362e85d-1925-4964-87ce-7142fc68da0a.png)
+
+### Organiser
+![User Flow Design Flowchart Whiteboard in Blue Yellow Spaced Color Blocks Style (2)](https://user-images.githubusercontent.com/91516454/221770516-9c3acda6-24df-4a20-8d23-c8e4adc34a4d.png)
+
+
+### Other Screens
+![User Flow Design Flowchart Whiteboard in Blue Yellow Spaced Color Blocks Style (3)](https://user-images.githubusercontent.com/91516454/221770584-84016b1c-e23e-4d6b-8755-971431fc1f79.png)
+
+
+
+
 ## Demo
 
 
