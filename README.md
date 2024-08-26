@@ -8,6 +8,23 @@
 ClashHub is an app, Where Gamers can Play, Host, Watch E-Sports matches of games like BGMI, Call of Duty Mobile, FreeFire Max and Earn Money.
 
 
+
+**App Available on:** Google Play Store
+
+
+
+
+## 🔗 Google Play Store Link
+[![](https://e7.pngegg.com/pngimages/918/845/png-clipart-google-play-logo-google-play-app-store-android-google-play-text-logo.png)](https://play.google.com/store/apps/details?id=com.clashhub)
+
+
+## Demo
+
+
+
+https://user-images.githubusercontent.com/91516454/220531436-ec30eb95-0a3c-4b71-b47c-c1475abca685.mp4
+
+
 ## User Flow
 ### Gamer
 ![User Flow Design Flowchart Whiteboard in Blue Yellow Spaced Color Blocks Style (1)](https://user-images.githubusercontent.com/91516454/221770310-3362e85d-1925-4964-87ce-7142fc68da0a.png)
@@ -18,20 +35,6 @@ ClashHub is an app, Where Gamers can Play, Host, Watch E-Sports matches of games
 
 ### Other Screens
 ![User Flow Design Flowchart Whiteboard in Blue Yellow Spaced Color Blocks Style (3)](https://user-images.githubusercontent.com/91516454/221770584-84016b1c-e23e-4d6b-8755-971431fc1f79.png)
-
-
-
-
-## Demo
-
-
-
-https://user-images.githubusercontent.com/91516454/220531436-ec30eb95-0a3c-4b71-b47c-c1475abca685.mp4
-
-
-
-
-
 
 
 ## Some Top Features
@@ -55,10 +58,3 @@ https://user-images.githubusercontent.com/91516454/220531436-ec30eb95-0a3c-4b71-
 
 **Server Hosted On:** AWS Lambda
 
-**App Available on:** Google Play Store
-
-
-
-
-## 🔗 Google Play Store Link
-[![](https://e7.pngegg.com/pngimages/918/845/png-clipart-google-play-logo-google-play-app-store-android-google-play-text-logo.png)](https://play.google.com/store/apps/details?id=com.clashhub)
